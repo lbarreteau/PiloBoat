@@ -1,0 +1,26 @@
+{
+  "name": "piloboat",
+  "version": "1.0.0",
+  "description": "Your prediction and automatic navigation service",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lbarreteau/PiloBoat.git"
+  },
+  "keywords": [
+    "Boat",
+    "Pilot",
+    "Auto-Pilot",
+    "Api"
+  ],
+  "author": "Luchooooo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lbarreteau/PiloBoat/issues"
+  },
+  "homepage": "https://github.com/lbarreteau/PiloBoat#readme"
+}
